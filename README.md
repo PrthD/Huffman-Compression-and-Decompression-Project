@@ -22,7 +22,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Huffman-Compression-and-Decompression-Project.git
+   git clone https://github.com/PrthD/Huffman-Compression-and-Decompression-Project.git
    cd Huffman-Compression-and-Decompression-Project
    ```
 
