@@ -7,18 +7,15 @@ This project implements Huffman compression and decompression. It includes a web
 ## Project Structure
 The project is organized into the following directories:
 
-```
-/
-├── src/
-│   ├── bitio.py          # Handles bitwise reading and writing
-│   ├── compress.py       # Contains the logic to compress files
-│   ├── decompress.py     # Contains the logic to decompress files
-│   ├── huffman.py        # Used to create Huffman trees and encode/decode messages
-│   ├── util.py           # Contains helper functions used for compression and decompression
-│   ├── webserver.py      # Web server to display compressed files in a browser
-│   └── version.py        # Version information for the project
-└── README.md             # Documentation for the project
-```
+- **/src/**:
+   - `bitio.py` - Handles bitwise reading and writing
+   - `compress.py` - Contains the logic to compress files
+   - `decompress.py` - Contains the logic to decompress files
+   - `huffman.py` - Used to create Huffman trees and encode/decode messages
+   - `util.py` - Contains helper functions used for compression and decompression
+   - `webserver.py` - Web server to display compressed files in a browser
+   - `version.py` - Version information for the project
+- `README.md` - Documentation for the project
 
 ## Installation and Setup
 To set up the project locally:
