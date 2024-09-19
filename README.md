@@ -22,8 +22,8 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/huffman-compression.git
-   cd huffman-compression
+   git clone https://github.com/your-username/Huffman-Compression-and-Decompression-Project.git
+   cd Huffman-Compression-and-Decompression-Project
    ```
 
 2. Install required dependencies:
