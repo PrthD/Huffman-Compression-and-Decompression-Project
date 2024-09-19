@@ -1,7 +1,7 @@
 
 # Huffman Compression and Decompression Project
 
-## Overview
+## Project Overview
 This project implements Huffman compression and decompression. It includes a web server that allows users to view compressed files through a browser. The compressed files are served by the web server, and the web interface allows them to be accessed locally.
 
 ## Project Structure
